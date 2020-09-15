@@ -9,12 +9,14 @@ function Header() {
 
 <S.Container>
 <S.LeftSide>
-  <image src={logo} alt="Codego"/>
+  <img src={logo} alt="Codego"/>
 
 </S.LeftSide>
+
+
+
+
 <S.RightSide>
-
-
 </S.RightSide>
 
 
